@@ -1,0 +1,23 @@
+/*reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*commons*/
+body {
+    background-color:#fff ;
+    font-family: 'Fredoka', sans-serif;
+    
+  }
+ h1{
+     color: #e53170;
+     margin-top: 50px;
+     margin-bottom: 20px;
+     text-align: center;
+ }
+ /*layout*/
+ .container {
+    width: 80%;
+    margin: 0 auto;
+ }
